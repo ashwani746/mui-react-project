@@ -1,6 +1,6 @@
 #PROJECT LINK
 Frontend responsive Project
-[Create React App](https://dummyfbclone.netlify.app/).
+[Facebook MUI Project](https://dummyfbclone.netlify.app/).
 
 
 # Getting Started with Create React App
